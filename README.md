@@ -1,4 +1,4 @@
-<img width="1044" height="817" alt="image" src="https://github.com/user-attachments/assets/86e9258a-8a6f-4406-9abc-ae21447587da" /># Data-Science-Final-Examn 
+# Data-Science-Final-Examn 
 
 ## 📝 Problem:
 - Final Exam of DS Course
